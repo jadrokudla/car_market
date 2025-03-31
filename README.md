@@ -10,4 +10,4 @@
 <img src="car_features.png" alt="" width="800">
 
 <h3>3. Favourite cars, user id:4</h3>
-<img src="favourite_cars" alt="" width="800">
+<img src="favourite_cars.png" alt="" width="800">
