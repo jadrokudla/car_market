@@ -1,5 +1,5 @@
 ## 📸 Screenshots
-<h2>MVC Car market in laravel, SQlite DB, retalionship between models. Pictures are random generated from factory. </h2>
+<h2>MVC Car market in laravel, SQlite DB, relationship between models. Pictures are random generated from factory. </h2>
 <h3>1. Published cars</h3>
 <img src="published_cars.png" alt="" width="800">
 
